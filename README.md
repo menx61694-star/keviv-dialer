@@ -1,7 +1,5 @@
 # Keviv Dialer
 
-Repository bootstrap for the Keviv Dialer project. The full project source is staged as an archive and will be expanded into the repository by the bootstrap workflow.
+This repository is initialized, but the project source has **not yet been uploaded**. Do not use this repository to build or deploy the application until the source files are present.
 
-## Status
-
-Build and GitHub Actions validation are pending. Do not treat this repository as production-ready until CI succeeds.
+The validated local working copy is available in the conversation as `keviv-dialer-source.zip`. Local smoke tests passed, but dependency installation timed out, so the production build and full TypeScript check remain unverified.
